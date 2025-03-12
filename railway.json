@@ -1,0 +1,9 @@
+{
+  "name": "MinecraftBedrockProject",
+  "services": [
+    {
+      "name": "minecraft-server",
+      "env": {}
+    }
+  ]
+}
